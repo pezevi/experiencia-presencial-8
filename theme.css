@@ -1,0 +1,22 @@
+body {
+  margin-top: 51px;
+}
+
+footer .social div {
+  clear: both;
+}
+
+footer .social div i.fa {
+    float: left;
+}
+
+footer .social div h6 {
+  margin-top: 20px;
+  float: left;
+  margin-left: 20px;
+}
+
+
+footer .jumbotron {
+  margin-bottom: 0px;
+}
