@@ -2,6 +2,10 @@ body {
   margin-top: 51px;
 }
 
+.mapa {
+  border:0;
+}
+
 footer .social div {
   clear: both;
 }
